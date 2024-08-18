@@ -1,4 +1,4 @@
-output "rg-name-out" {
+output "rg_name_out" {
     value = azurerm_resource_group.test.name
   
 }
