@@ -1,3 +1,3 @@
-output "rg-name" {
-    value = module.ResourceGroup.rg-name-out
+output "rg_name" {
+    value = module.ResourceGroup.rg_name_out
 }
